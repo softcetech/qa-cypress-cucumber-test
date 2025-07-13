@@ -117,6 +117,9 @@ npm run allure:report
 
 ---
 
-## 👨‍💻 Autor
+## ✍️ Autor(a)
+
+**Claudiane Oliveira**  
+🔗 [LinkedIn](https://www.linkedin.com/in/claudianeoliveiraqa/)
 
 Projeto desenvolvido para fins de estudo e demonstração de automação de testes com Cypress + Cucumber + Allure.
